@@ -3,7 +3,6 @@
 #### I like to solve problems using programming ^^
 
 - 🌱 I’m currently learning web development with node js, react and typescript
-- 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/glauber-bispo-cruz-carvalho-963845218/) 
 - 😄 Languages: html, css, js, ts, scss, py, java, php.
 - ⚡ Fun fact: I like learn new languages(although i only know english, portuguese and a little japanese for now lol)
