@@ -1,5 +1,6 @@
 ## Hi there, I'm Glauber/Ging 👋
 
+#### I like to solve problems using programming ^^
 
 - 🌱 I’m currently learning web development with node js, react and typescript
 - 👯 I’m looking to collaborate on ...
