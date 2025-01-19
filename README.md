@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I like learn new languages(although i only know english, portuguese and a little japanese for now lol)
 
 ### Connect with me:
-<a href='https://www.linkedin.com/in/glauber-bispo-cruz-carvalho-963845218/' target='_blank'>
+<a href='https://www.linkedin.com/in/glauber-bispo-963845218' target='_blank'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40"/>
 </a>
 
