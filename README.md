@@ -33,8 +33,8 @@
 
 ### Stats:
 <p>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Ging123&theme=tokyonight'>
-  <img src='https://github-readme-stats.vercel.app/api?username=Ging123&&show_icons=true&icon_color=bb2acf&text_color=daf7dc&theme=tokyonight'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=glauber-cruz&theme=tokyonight'>
+  <img src='https://github-readme-stats.vercel.app/api?username=glauber-cruz&&show_icons=true&icon_color=bb2acf&text_color=daf7dc&theme=tokyonight'>
 </p>
 
 ### <p align='center'>BANG</p>
